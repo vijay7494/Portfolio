@@ -3,7 +3,7 @@ import about from "../assets/aboutImg.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { RiFile2Line } from "react-icons/ri";
 import { motion } from "framer-motion";
-import resume from "../assets/Vijay_Chaure_.pdf"; 
+import resume from "../assets/Vijay_chaure_.pdf"; 
 
 const About = () => {
   return (
